@@ -151,7 +151,7 @@
     {
       "name": "Function argument",
       "scope": "variable.parameter - (source.c | source.c++ | source.objc | source.objc++)",
-      "foreground": "gray06"
+      "foreground": "var(red01)"
     },
     {
       "name": "Library function",
